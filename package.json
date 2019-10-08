@@ -17,7 +17,7 @@
   "author": "Rod Vagg <r@va.gg> (http://r.va.gg)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rvagg/github-webhook.git"
+    "url": "https://github.com/maytinhduyanh/github-webhook.git"
   },
   "license": "MIT",
   "devDependencies": {
