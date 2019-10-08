@@ -22,7 +22,7 @@ You can also specify a `--config <file>` where *file* is a JSON file containing 
 ```json
 {
   "port": 9999,
-  "path": "/webhook",
+  "path": "/maytinhduyanh",
   "secret": "mygithubsecret",
   "log": "/var/log/webhook.log",
   "rules": [{
